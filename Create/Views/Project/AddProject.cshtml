@@ -1,0 +1,138 @@
+﻿@model Create.Models.Projects
+@{
+    ViewBag.Title = "AddProject";
+}
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="~/Content/themes/new.css" rel="stylesheet" />
+    <link href="~/Content/themes/newmin.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/morris.css" rel="stylesheet" />
+    <link href="~/Content/themes/font.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">CREATE</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-nav navbar-right">
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" id="menu1" type="button" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-user"></span> @Session["UserName"]
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="@Url.Action("Logout", "Account") ">Logout</a></li>
+                    </ul>
+                </div>
+                <script>
+                    $(document).ready(function () {
+                        $(".dropdown-toggle").dropdown();
+                    });
+                </script>
+
+            </ul>
+
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav" style="margin-left:-17%">
+                    <li>
+                        <a href="@Url.Action("Profile", "Account")"><i class="fa fa-fw fa-dashboard"></i> My Profile</a>
+                    </li>
+                       <li>
+                        <a href="@Url.Action("Projects", "Project")"><i class="fa fa-fw fa-dashboard"></i> My Projects</a>
+                    </li>                   
+                    <li>
+                        <a href="@Url.Action("AddProject", "Project")"><i class="fa fa-fw fa-bar-chart-o"></i> Create New Project</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("TeamFriend", "Team")"><i class="fa fa-fw fa-table"></i> Team Friends</a>
+                    </li>
+                  
+                </ul>
+            </div>
+        </nav>
+    </div>
+</body>
+
+    <br /><br /><br />
+
+
+    <div id="page-wrapper" style="margin-left:15%">
+        <div class="container-fluid">
+            <!-- Page Heading -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header" style="text-align:center">
+                        New Project
+                    </h1>
+                </div>
+            </div>
+            <!-- /.row -->
+            <!-- /.row -->
+            <center>
+                
+                @using (Html.BeginForm())
+                {
+                    <table>
+                        <tr>
+                            <td>Project Name</td>
+                            <td>@Html.EditorFor(x => x.projectName)</td>
+
+                        </tr>
+                        <tr>
+                            <td>Project Subject</td>
+                            <td>@Html.EditorFor(x => x.projectSubject)</td>
+                        </tr>
+                        <tr>
+                            <td>Project Start Date</td>
+                            <td>@Html.EditorFor(x => x.projectStartDate)</td>
+                        </tr>
+
+                        <tr>
+                            <td>Project End Date</td>
+                            <td>@Html.EditorFor(x => x.projectEndDate)</td>
+                        </tr>
+                       
+                    </table>
+
+                    <div>
+                        <br />
+                        <input type="submit" value="Add Project" />
+                    </div>
+
+                    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                }
+
+                <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+            </center>
+
+            <!-- /.row -->
+            <!-- /.row -->
+        </div>
+        <!-- /.container-fluid -->
+    </div>
+    <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Morris Charts JavaScript -->
+    <script src="js/plugins/morris/raphael.min.js"></script>
+    <script src="js/plugins/morris/morris.min.js"></script>
+    <script src="js/plugins/morris/morris-data.js"></script>
+
+</body>

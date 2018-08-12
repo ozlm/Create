@@ -1,0 +1,62 @@
+﻿@model Create.Models.Users
+@{
+    ViewBag.Title = "Login";
+}
+
+<head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <loginpage>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="@Url.Action("Index", "Home")">CREATE</a>
+                </div>
+
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li><a href="@Url.Action("AboutUs","Home")">About Us</a></li>
+                    <li><a href="@Url.Action("CreateUser", "User")">Join Us</a></li>
+                    <li><a href="@Url.Action("Login", "Account")">Login</a></li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+        <br /><br /><br /><br /><br />
+        <center>
+
+
+            <div>
+                @using (Html.BeginForm())
+                {
+                    <div>
+                        <div class="form-style-8">
+                            <form>
+                                @Html.LabelFor(m => m.Email)
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                      
+                     
+                                @Html.LabelFor(m => m.Password)
+                                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                              
+                            
+                              <input type="submit" value="Login" />   </form> 
+                                  </div>
+                           
+                       
+                   </div> 
+                }
+            </div>
+
+
+        </center>
+    </loginpage>
+
+</body>

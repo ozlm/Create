@@ -1,0 +1,119 @@
+﻿@model Create.Models.Users
+@{
+    ViewBag.Title = "Settings";
+}
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="~/Content/themes/new.css" rel="stylesheet" />
+    <link href="~/Content/themes/newmin.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/morris.css" rel="stylesheet" />
+    <link href="~/Content/themes/font.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">CREATE</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-nav navbar-right">
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" id="menu1" type="button" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-user"></span> @Session["UserName"]
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="@Url.Action("Logout", "Account") ">Logout</a></li>
+                    </ul>
+                </div>
+                <script>
+                    $(document).ready(function () {
+                        $(".dropdown-toggle").dropdown();
+                    });
+                </script>
+            </ul>
+
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav" style="margin-left:-17%">
+                    <li>
+                        <a href="@Url.Action("Profile", "Account")"><i class="fa fa-fw fa-dashboard"></i> My Profile</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Projects", "Project")"><i class="fa fa-fw fa-dashboard"></i> My Projects</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("AddProject", "Project")"><i class="fa fa-fw fa-bar-chart-o"></i> Create New Project</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("TeamFriend", "Team")"><i class="fa fa-fw fa-table"></i> Team Friends</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+</body>
+<br /><br /><br />
+
+<!--beyaz div başlangıcı-->
+
+<div id="page-wrapper" style="margin-left:15%">
+    <div class="container-fluid">
+        <!-- Page Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header" style="text-align:center">
+                    Settings
+                </h1>
+
+            </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-lg-12">
+
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <link href="~/css/bootstrap.css" rel="stylesheet" />
+        <center>
+            @using (Html.BeginForm())
+            {
+                <table>
+                    <tr>
+                        <td>User Name</td>
+                        <td>@Html.EditorFor(x => x.UserName)</td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>@Html.EditorFor(x => x.Email)</td>
+                    </tr>
+                    <tr>
+                        <td>Password</td>
+                        <td>@Html.EditorFor(x => x.Password)</td>
+                    </tr>
+                </table>
+                <br />
+                <input type="submit" name="btnSubmit" class="btn btn-danger" value="Update" />
+            }
+
+        </center>
+        <script src="~/Content/themes/jquery.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Morris Charts JavaScript -->
+        <script src="~/Content/themes/raphael.min.js"></script>
+        <script src="js/plugins/morris/morris.min.js"></script>
+        <script src="js/plugins/morris/morris-data.js"></script>
+        </body>

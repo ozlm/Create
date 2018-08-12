@@ -1,0 +1,278 @@
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Create.dll.config
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Create.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Create.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Antlr3.Runtime.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\EntityFramework.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Bson.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Driver.Core.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Driver.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Driver.Legacy.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Net.Http.Formatting.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Http.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Http.WebHost.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Mvc.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Optimization.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Providers.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.Deployment.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\WebGrease.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Bson.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Driver.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\MongoDB.Driver.Legacy.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\EntityFramework.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Net.Http.Formatting.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Http.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Http.WebHost.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Mvc.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.Deployment.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\bin\System.Web.WebPages.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\obj\Debug\Create.dll
+c:\users\asus\documents\visual studio 2013\Projects\Create\Create\obj\Debug\Create.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+F:\sasd\Create\Create\bin\Create.dll.config
+F:\sasd\Create\Create\bin\Create.dll
+F:\sasd\Create\Create\bin\Create.pdb
+F:\sasd\Create\Create\bin\Antlr3.Runtime.dll
+F:\sasd\Create\Create\bin\EntityFramework.dll
+F:\sasd\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+F:\sasd\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\sasd\Create\Create\bin\MongoDB.Bson.dll
+F:\sasd\Create\Create\bin\MongoDB.Driver.Core.dll
+F:\sasd\Create\Create\bin\MongoDB.Driver.dll
+F:\sasd\Create\Create\bin\MongoDB.Driver.Legacy.dll
+F:\sasd\Create\Create\bin\Newtonsoft.Json.dll
+F:\sasd\Create\Create\bin\System.Net.Http.Formatting.dll
+F:\sasd\Create\Create\bin\System.Web.Http.dll
+F:\sasd\Create\Create\bin\System.Web.Http.WebHost.dll
+F:\sasd\Create\Create\bin\System.Web.Mvc.dll
+F:\sasd\Create\Create\bin\System.Web.Optimization.dll
+F:\sasd\Create\Create\bin\System.Web.Providers.dll
+F:\sasd\Create\Create\bin\System.Web.Razor.dll
+F:\sasd\Create\Create\bin\System.Web.WebPages.Deployment.dll
+F:\sasd\Create\Create\bin\System.Web.WebPages.dll
+F:\sasd\Create\Create\bin\System.Web.WebPages.Razor.dll
+F:\sasd\Create\Create\bin\WebGrease.dll
+F:\sasd\Create\Create\bin\MongoDB.Bson.xml
+F:\sasd\Create\Create\bin\MongoDB.Driver.xml
+F:\sasd\Create\Create\bin\MongoDB.Driver.Legacy.xml
+F:\sasd\Create\Create\bin\EntityFramework.xml
+F:\sasd\Create\Create\bin\Newtonsoft.Json.xml
+F:\sasd\Create\Create\bin\System.Net.Http.Formatting.xml
+F:\sasd\Create\Create\bin\System.Web.Http.xml
+F:\sasd\Create\Create\bin\System.Web.Http.WebHost.xml
+F:\sasd\Create\Create\bin\System.Web.Mvc.xml
+F:\sasd\Create\Create\bin\System.Web.Razor.xml
+F:\sasd\Create\Create\bin\System.Web.WebPages.xml
+F:\sasd\Create\Create\bin\System.Web.WebPages.Deployment.xml
+F:\sasd\Create\Create\bin\System.Web.WebPages.Razor.xml
+F:\sasd\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+F:\sasd\Create\Create\obj\Debug\Create.dll
+F:\sasd\Create\Create\obj\Debug\Create.pdb
+C:\Users\özlem\Desktop\sasd\Create\Create\obj\Debug\Create.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\obj\Debug\Create.pdb
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Create.dll.config
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Create.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Create.pdb
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\EntityFramework.SqlServer.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Owin.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\WebGrease.dll
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\EntityFramework.SqlServer.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\sasd\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Create.dll.config
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Create.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Create.pdb
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Owin.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\WebGrease.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\obj\Debug\Create.dll
+C:\Users\özlem\Desktop\Staj\sasd\Create\Create\obj\Debug\Create.pdb
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Create.dll.config
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Create.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Create.pdb
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Antlr3.Runtime.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Bson.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Core.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Newtonsoft.Json.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Owin.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Mvc.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Optimization.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Providers.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Razor.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\WebGrease.dll
+G:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Bson.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\Newtonsoft.Json.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Mvc.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Razor.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.xml
+G:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.xml
+G:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+G:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.dll
+G:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.pdb
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Create.dll.config
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Create.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Create.pdb
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Antlr3.Runtime.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Web.Infrastructure.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Bson.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Core.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Newtonsoft.Json.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Owin.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Mvc.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Optimization.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Providers.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Razor.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\WebGrease.dll
+H:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\EntityFramework.SqlServer.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Bson.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\MongoDB.Driver.Legacy.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\Newtonsoft.Json.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Mvc.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.Razor.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Deployment.xml
+H:\Masaüstü\Staj\sasd\Create\Create\bin\System.Web.WebPages.Razor.xml
+H:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+H:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.dll
+H:\Masaüstü\Staj\sasd\Create\Create\obj\Debug\Create.pdb
